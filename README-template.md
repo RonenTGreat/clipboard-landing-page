@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Soluion URL](https://your-solution-url.com)
+- Solution URL: [Soluion URL](https://www.frontendmentor.io/solutions/responsive-landing-page-using-tailwind-css-ohqm44OB6g)
 - Live Site URL: [Live Site URL](https://tubular-puppy-00c392.netlify.app/)
 
 ## My process

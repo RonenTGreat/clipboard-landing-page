@@ -7,3 +7,14 @@
 .btn {
   @apply  text-white font-medium p-4 mx-7 rounded-full;
 }
+
+.heading{
+  @apply px-5 pb-4 text-darkgrayishblue text-center text-4xl font-semibold;
+}
+
+.subheading{
+  @apply px-5 pb-4 text-darkgrayishblue text-center text-3xl font-semibold;
+}
+.paragraph{
+  @apply text-grayishblue text-lg text-center px-10 pb-10;
+}

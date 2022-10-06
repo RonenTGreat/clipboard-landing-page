@@ -18,3 +18,7 @@
 .paragraph{
   @apply text-grayishblue text-lg text-center px-10 pb-10;
 }
+
+.state{
+  @apply hover:cursor-pointer hover:text-strongcyan;
+}
